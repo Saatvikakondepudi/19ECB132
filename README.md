@@ -7,8 +7,7 @@
 
 [doubly linked lists](doublylists.c)
 
- factorialo of a number (https://github.com/Saatvikakondepudi/19ECB132/blob/e9dad4b39075ff67d17e6225211122d691f32430/factorial.c)
-
+[factorial of a number]
 insertion sort (https://github.com/Saatvikakondepudi/19ECB132/blob/0058ce17be6f8f9b1a5c4e6901093f31c131dfaa/insertionsort.c)
 
 letter count(https://github.com/Saatvikakondepudi/19ECB132/blob/de094a6e7b6e6dc7f013991e99e440316230c3b3/lettercount.c)
