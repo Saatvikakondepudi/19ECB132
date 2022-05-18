@@ -17,4 +17,4 @@
 
 [singly linked lists](singlylinkedlist.c)
 
-switch case(https://github.com/Saatvikakondepudi/19ECB132/blob/89110281493e76c6b3f3127da789cb82778988ea/switchcase.c)
+[switch case](switchcase.c)
