@@ -14,3 +14,5 @@ insertion sort (https://github.com/Saatvikakondepudi/19ECB132/blob/0058ce17be6f8
 letter count(https://github.com/Saatvikakondepudi/19ECB132/blob/de094a6e7b6e6dc7f013991e99e440316230c3b3/lettercount.c)
 
 singly linked list1(https://github.com/Saatvikakondepudi/19ECB132/blob/9fa0e27b4239d3f5baa3e12923967f25b1891537/readingsinglylists.c)
+
+singly linked lists2(https://github.com/Saatvikakondepudi/19ECB132/blob/04d97fe6bb7c2ed2abf36af7bd84488301768d52/singlylinkedlist.c)
