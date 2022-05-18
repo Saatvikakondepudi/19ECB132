@@ -11,7 +11,7 @@
 
 [insertion sort](insertionsort.c)
 
-letter count(https://github.com/Saatvikakondepudi/19ECB132/blob/de094a6e7b6e6dc7f013991e99e440316230c3b3/lettercount.c)
+[letter count](lettercount.c)
 
 singly linked list1(https://github.com/Saatvikakondepudi/19ECB132/blob/9fa0e27b4239d3f5baa3e12923967f25b1891537/readingsinglylists.c)
 
