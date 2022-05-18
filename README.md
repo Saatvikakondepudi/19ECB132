@@ -8,4 +8,4 @@
 [letter count](lettercount.c)    
 [reading singly linked list](readingsinglylists.c)    
 [singly linked lists](singlylinkedlist.c)     
-[switch case](switchcase.c)        
+[switch case](switchcase.c)         
