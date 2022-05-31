@@ -15,4 +15,9 @@ int main(void) {
   printf("\nElements after sorting are ...\n");
   for(int i=0; i<10; i++)
     printf("%d\t", input[i]);
-  return 0;  
+  return 0; 
+  }
+/*
+Elements after sorting are ...
+1   2   3   4   5   7   9   19  20  45 
+*/
