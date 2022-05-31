@@ -30,3 +30,20 @@ int main()
     
     return 0;
 }
+/*
+Enter number of elements in the array
+5
+Enter 5 elements
+1 2 3 4 5 
+Please enter the location where you want to insert an new element
+2
+Please enter the value
+8
+Resultant array is
+1
+8
+2
+3
+4
+5
+*/
