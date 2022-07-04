@@ -9,3 +9,4 @@
 [reading singly linked list](readingsinglylists.c)    
 [singly linked lists](singlylinkedlist.c)     
 [switch case](switchcase.c)         
+[avltree](avltree.c)
